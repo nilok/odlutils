@@ -1,3 +1,11 @@
+# MOVED!
+
+I've moved this tool into the OpenDaylight [releng/autorelease project]
+(https://git.opendaylight.org/gerrit/#/admin/projects/releng/autorelease).
+
+You also find it on at it's [github mirror]
+(https://github.com/opendaylight/releng-autorelease/tree/master/scripts/forall)
+
 # odlutils
 
 Currently the dominant script here is for-all.pl which does a given
